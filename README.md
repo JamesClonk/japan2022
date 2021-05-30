@@ -108,3 +108,5 @@
 - https://www.japan-guide.com/e/e7101.html
 - Hiji Waterfall, https://www.japan-guide.com/e/e7120.html
 - Iriomote Island, https://www.japan-guide.com/e/e7225.html
+- Beach Guide, https://www.japan-guide.com/e/e7119.html
+- Food Guide, https://www.japan-guide.com/e/e7128.html
