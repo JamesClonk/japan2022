@@ -10,7 +10,7 @@
 
 ## Itinerary
 #### Days
-1. Airport arrival -> Hotel on Main Island, Beaches
+1. Flight to Okinawa -> Airport arrival -> Hotel on Main Island, Beaches
 2. Beaches
 3. Sightseeing, Hiking - Hiji Waterfall
 4. Flight to Miyako Island -> Hotel, Beaches
