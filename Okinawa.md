@@ -8,6 +8,7 @@
 - Beach Guide - Okinawa Main Island, https://www.japan-guide.com/e/e7119.html
 - Food Guide, https://www.japan-guide.com/e/e7128.html
 
+-----
 ## Itinerary
 #### Days
 1. Flight to Okinawa -> Airport arrival -> Hotel on Main Island, Beaches
