@@ -31,7 +31,7 @@
 -----
 # East
 
-## 🗼 🍣 Tokyo
+## 🌃 🗼 🍣 Tokyo
 ##### Sightseeing, Food
 ### Near Tokyo
 - Nikko, https://www.japan-guide.com/e/e3800.html
@@ -47,7 +47,7 @@
 -----
 # Central
 
-## Yamanashi
+## 🥾 🗻 🌲 🎢 Yamanashi
 ##### Hiking, Sightseeing, Theme Park
 ### Fuji Five Lakes
 - https://www.japan.travel/en/destinations/tokai/yamanashi/fuji-five-lakes/
