@@ -14,3 +14,9 @@
 2. Going cycling to Onomichi - Imabari ???
 3. ???, departure?
 4. ???, departure?
+
+-----
+Open points:
+- [ ] Spend more time in total in Hiroshima / near-area?
+- [ ] Spend less time in total in Hiroshima / near-area?
+
