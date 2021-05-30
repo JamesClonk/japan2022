@@ -33,7 +33,7 @@
 
 ## 🌃 🗼 🍣 Tokyo
 ##### Sightseeing, Food
-### Near Tokyo
+### 🏯 Near Tokyo
 - Nikko, https://www.japan-guide.com/e/e3800.html
 
 ## ♨ 🛥 🚠 🗻 🌲 Hakone
@@ -71,7 +71,7 @@
 
 ## ⛩ 🍣 🥩 🍸 Kyoto
 ##### Sightseeing, Food
-### Near Kyoto
+### 🥾 ⛰ Near Kyoto
 ##### Hiking, Sightseeing
 - Mount Koya, https://www.japan-guide.com/e/e4900.html
 - Mount Hiei, https://www.japan.travel/en/spot/2205/
@@ -92,12 +92,12 @@
 -----
 # West
 
-## Hiroshima
+## 🏯 🍜 Hiroshima
 ##### Sightseeing, Food
 - Okonomimura
 - Hiroshima Castle
 
-## Near Hiroshima
+## 🚵‍♂️ Near Hiroshima
 ##### Cycling, Sightseeing
 ### Onomichi - Imabari
 - https://www.japan.travel/en/itineraries/cycling-the-shimanami-kaido/
