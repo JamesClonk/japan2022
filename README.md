@@ -1,4 +1,4 @@
-#  Japan 2022
+#  🗾 ⛩  Japan 2022
 
 ### End of March / Early-Mid April
 (Japanese Golden Week starts end of April, they all have vacation then and it is horribly crowded. Avoid at all cost!)
