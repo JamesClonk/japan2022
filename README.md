@@ -77,13 +77,13 @@
 - Mount Hiei, https://www.japan.travel/en/spot/2205/
 - Hiking from Mount Hiei to Enryakuji Temple, https://www.japan.travel/en/spot/1075/
 
-## Shiga
+## 🌲 🛥 Shiga
 ##### Sightseeing
 - https://www.japan.travel/en/destinations/kansai/shiga/
 ### Lake Biwa
 - https://www.japan.travel/en/destinations/kansai/shiga/lake-biwa/
 
-## Hyogo
+## 🥾 🌲 🏯 🥩 Hyogo
 ##### Hiking, Sightseeing, Food
 - https://www.japan.travel/en/destinations/kansai/hyogo/
 ### Takeda Castle
