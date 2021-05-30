@@ -71,6 +71,8 @@
 
 ## ⛩ 🍣 🥩 🍸 Kyoto
 ##### Sightseeing, Food
+- Japanesque Bar, https://goo.gl/maps/xwUYpDQUf8PwitTn8
+
 ### 🥾 ⛰ Near Kyoto
 ##### Hiking, Sightseeing
 - Mount Koya, https://www.japan-guide.com/e/e4900.html
