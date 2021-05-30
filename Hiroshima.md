@@ -7,6 +7,7 @@
 ### Onomichi - Imabari
 - https://www.japan.travel/en/itineraries/cycling-the-shimanami-kaido/
 
+-----
 ## Itinerary
 #### Days
 1. Arrival by train -> Hotel, Hiroshima Castle, Hondori Street, Okonomimura
