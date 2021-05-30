@@ -105,7 +105,7 @@
 -----
 # Very South
 
-## Okinawa
+## 🏖 🌴 🥥 🍹 Okinawa
 ##### Beach, Nature, Hiking, Sightseeing, Food
 - https://www.japan.travel/en/destinations/okinawa/okinawa/
 - https://www.japan-guide.com/e/e7101.html
