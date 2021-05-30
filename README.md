@@ -7,6 +7,7 @@
 - https://www.japan.travel/en/guide/japan-by-bicycle/
 - https://www.japan.travel/en/story/wagyu-brands/
 - https://www.japan.travel/en/guide/okonomiyaki-guide/
+- Food Guide, https://www.japan-guide.com/e/e620.html
 - Onsen Guide, https://www.japan-guide.com/e/e2292.html
 - Hiking Guide, https://www.japan-guide.com/e/e2427.html
 - Beach Guide, https://www.japan-guide.com/e/e2461.html
