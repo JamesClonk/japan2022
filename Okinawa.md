@@ -12,7 +12,7 @@
 #### Days
 1. Airport arrival -> Hotel on Main Island, Beaches
 2. Beaches
-3. Sightseeing, Hiking
+3. Sightseeing, Hiking - Hiji Waterfall
 4. Flight to Miyako Island -> Hotel, Beaches
 5. Beaches
 6. Flight to Main Island -> Hotel, ???
