@@ -62,6 +62,7 @@
 ## Osaka
 ##### Sightseeing, Food
 - https://www.japan.travel/en/destinations/kansai/osaka/
+- https://www.japan-guide.com/e/e2157.html
 
 ## Wakayama
 ##### Hiking, Nature, Sightseeing
