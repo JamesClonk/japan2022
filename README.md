@@ -15,12 +15,12 @@
 -----
 # North
 
-## Akita
+## 🛀 🥾 🌲 ⛰ Akita
 ##### Hiking, Nature, Sightseeing, Onsen
 - Hiking near Mt. Hachimantai, https://www.japan.travel/en/spot/1823/
 - Nyuto Onsen, https://www.japan-guide.com/e/e3650.html
 
-## Gunma
+## 🛀 🥾 🌲 ⛰ Gunma
 ##### Hiking, Nature, Sightseeing, Onsen
 - Kusatsu Onsen, https://www.japan-guide.com/e/e7400.html
 - Minakami, https://www.japan-guide.com/e/e7460.html
@@ -31,12 +31,12 @@
 -----
 # East
 
-## Tokyo
+## 🗼 🍣 Tokyo
 ##### Sightseeing, Food
 ### Near Tokyo
 - Nikko, https://www.japan-guide.com/e/e3800.html
 
-## Hakone
+## 🛀 🛥 🚠 🗻 🌲 Hakone
 ##### Sightseeing, Onsen
 - https://www.japan.travel/en/destinations/kanto/kanagawa/hakone-and-around/
 - Lake Ashinoko, https://www.japan.travel/en/spot/1569/
