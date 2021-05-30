@@ -9,6 +9,7 @@
 - https://www.japan.travel/en/guide/okonomiyaki-guide/
 - Onsen Guide, https://www.japan-guide.com/e/e2292.html
 - Hiking Guide, https://www.japan-guide.com/e/e2427.html
+- Beach Guide, https://www.japan-guide.com/e/e2461.html
 
 -----
 # North
