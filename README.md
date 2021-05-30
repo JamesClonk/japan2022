@@ -60,16 +60,16 @@
 ##### Food
 - Matsusaka Beef, https://www.japan.travel/en/spot/118/
 
-## Osaka
+## 🥩 🍜 Osaka
 ##### Sightseeing, Food
 - https://www.japan.travel/en/destinations/kansai/osaka/
 - https://www.japan-guide.com/e/e2157.html
 
-## Wakayama
+## 🥾 🌲 Wakayama
 ##### Hiking, Nature, Sightseeing
 - https://www.japan.travel/en/destinations/kansai/wakayama/
 
-## Kyoto
+## ⛩ 🍣 🥩 🍸 Kyoto
 ##### Sightseeing, Food
 ### Near Kyoto
 ##### Hiking, Sightseeing
