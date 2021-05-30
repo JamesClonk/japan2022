@@ -25,8 +25,8 @@
 - Kusatsu Onsen, https://www.japan-guide.com/e/e7400.html
 - Minakami, https://www.japan-guide.com/e/e7460.html
 - Minakami Hot Springs, Onsen, https://www.japan-guide.com/e/e7463.html
-- Takaragawa Onsen, _mixed_
-- Hoshi Onsen, _mixed_
+- Takaragawa Onsen, _mixed gender_
+- Hoshi Onsen, _mixed gender_
 
 -----
 # East
