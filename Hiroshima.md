@@ -2,7 +2,7 @@
 ##### Sightseeing, Food
 - Okonomimura
 - Hiroshima Castle
-## Near Hiroshima
+### Near Hiroshima
 ##### Cycling, Sightseeing
 ### Onomichi - Imabari
 - https://www.japan.travel/en/itineraries/cycling-the-shimanami-kaido/
