@@ -1,6 +1,6 @@
 # Travel route
 
-1. Tokyo
+1. 🛬 Tokyo
 2. ???
 3. ???
 4. ???
@@ -10,4 +10,4 @@
 8. ???
 9. Okinawa
 10. ???
-11. Tokyo
+11. Tokyo 🛫 
