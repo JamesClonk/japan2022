@@ -12,9 +12,16 @@
 ## Itinerary
 #### Days
 1. Flight to Okinawa -> Airport arrival -> Hotel on Main Island, Beaches
-2. Beaches
-3. Sightseeing, Hiking - Hiji Waterfall
-4. Flight to Miyako Island -> Hotel, Beaches
-5. Beaches
+2. Beaches, Sightseeing, Hiking - Hiji Waterfall
+3. Flight to Miyako Island -> Hotel, Beaches
+4. Beaches
+5. Beaches, Sightseeing, Hiking
 6. Flight to Main Island -> Hotel, ???
 7. Flight back to mainland Japan -> Hotel, ???
+
+
+-----
+Open points:
+- [ ] Spend more time on Main Island than Miyako?
+- [ ] Spend more time on Miyako Island than Main?
+
