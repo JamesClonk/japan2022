@@ -24,4 +24,5 @@
 Open points:
 - [ ] Spend more time on Main Island than Miyako?
 - [ ] Spend more time on Miyako Island than Main?
+- [ ] Spend less time in total on Okinawa?
 
