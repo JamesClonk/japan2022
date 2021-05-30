@@ -8,6 +8,7 @@
 - https://www.japan.travel/en/story/wagyu-brands/
 - https://www.japan.travel/en/guide/okonomiyaki-guide/
 - Onsen Guide, https://www.japan-guide.com/e/e2292.html
+- Hiking Guide, https://www.japan-guide.com/e/e2427.html
 
 -----
 # North
@@ -69,6 +70,7 @@
 ##### Sightseeing, Food
 ### Near Kyoto
 ##### Hiking, Sightseeing
+- Mount Koya, https://www.japan-guide.com/e/e4900.html
 - Mount Hiei, https://www.japan.travel/en/spot/2205/
 - Hiking from Mount Hiei to Enryakuji Temple, https://www.japan.travel/en/spot/1075/
 
