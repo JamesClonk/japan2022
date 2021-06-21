@@ -64,6 +64,10 @@
 ##### Sightseeing, Food
 - https://www.japan.travel/en/destinations/kansai/osaka/
 - https://www.japan-guide.com/e/e2157.html
+#### Dotonbori 🥳 🥩
+###### Kuidaore (eat until you drop): dining Osaka-style
+- https://www.japan.travel/en/destinations/kansai/osaka/dotonbori-and-shinsaibashi/
+- https://www.japan-guide.com/e/e4028_osaka_deep.html
 
 ## 🥾 🌲 Wakayama
 ##### Hiking, Nature, Sightseeing
